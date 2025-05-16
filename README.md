@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=PANKAJMOR&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=PANKAJMOR&theme=radical" alt="GitHub Streak" />
@@ -47,7 +47,7 @@
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PANKAJMORE&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PANKAJMOR&theme=radical&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
