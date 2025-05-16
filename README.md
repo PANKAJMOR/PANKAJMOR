@@ -46,7 +46,7 @@
 
 ## 🏆 GitHub Trophies:
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=PANKAJMOR&theme=radical&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
@@ -54,7 +54,7 @@
 
 ## ✍️ Random Dev Quote:
 
-<p align="center">
+<p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
