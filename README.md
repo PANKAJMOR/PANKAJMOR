@@ -3,11 +3,14 @@
 
 ---
 
-## 💫 About Me:
-💬 I'm a Third Year Undergrad Student pursuing B.Tech CSE(AI&ML) from **Pimpri Chinchwad College of Engineering, Pune.**  
-🔭 I’m currently working on integrating AI & ML ideas to solve real-world problems.  
-👯 I’m looking to collaborate on projects related to **DS, ML, AI, and GEN AI**.  
-🌱 I’m currently practicing **DSA**.  
+## 💫 About Me: 
+<p style="font-size: 18px; font-weight: normal;">
+I'm a Third Year Undergrad Student pursuing B.Tech CSE(AI&ML) from Pimpri Chinchwad College of Engineering, Pune.<br>
+I’m currently working on integrating AI & ML ideas to solve real-world problems.<br>
+I’m looking to collaborate on projects related to DS, ML, AI, and GEN AI.<br>
+I’m currently practicing DSA.
+</p>
+
 ---
 
 ## 🌐 Connect with Me:
@@ -27,6 +30,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3C9CD6?style=for-the-badge&logo=nltk&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 
 
