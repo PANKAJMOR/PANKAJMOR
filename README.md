@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Pankaj More</h1>
-<h3">💻 AI/ML Enthusiast | 🎓 Third Year CSE (AI & ML) @ PCCoE</h3>
+<h3">💻 AI/ML Enthusiast | 🎓 Final Year CSE (AI & ML) @ PCCoE</h3>
 
 ---
 
