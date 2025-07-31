@@ -3,21 +3,24 @@
 
 ---
 
-## 💫 About Me: 
-<p style="font-size: 18px; font-weight: normal;">
-I'm a Third Year Undergrad Student pursuing B.Tech CSE(AI&ML) from Pimpri Chinchwad College of Engineering, Pune.<br>
-I’m currently working on integrating AI & ML ideas to solve real-world problems.<br>
-I’m looking to collaborate on projects related to DS, ML, AI, and GEN AI.<br>
-I’m currently practicing DSA.
-</p>
+Got it! Here's the revised version of your **💫 About Me** section with a subtle mention of your web development experience:
 
 ---
+
+## 💫 About Me:
+<p style="font-size: 18px; font-weight: normal;">
+I'm a Final Year Undergrad Student pursuing B.Tech CSE (AI & ML) from Pimpri Chinchwad College of Engineering, Pune.<br>
+I’m currently working on integrating AI & ML ideas to solve real-world problems.<br>
+I’m looking to collaborate on projects related to DS, ML, AI, and GEN AI.<br>
+I have hands-on experience with full-stack web development using technologies like React, Node.js, Express, and MongoDB.<br>
+</p>
+
 
 ## 🌐 Connect with Me:
 
 <p align="left">
   <a href="https://discordapp.com/users/1371065350027870248" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
-  <a href="https://www.instagram.com/pankaj__6254/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://www.instagram.com/pankaj_more6254/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
   <a href="https://www.linkedin.com/in/pankaj-more-b08538255/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://x.com/more_b56" target="blank"><img align="center" src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
 </p>
@@ -35,9 +38,6 @@ I’m currently practicing DSA.
 ![NLTK](https://img.shields.io/badge/NLTK-3C9CD6?style=for-the-badge&logo=nltk&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-
-
 ---
 
 ## 📊 GitHub Stats:
@@ -52,19 +52,6 @@ I’m currently practicing DSA.
 
 ---
 
-## 🏆 GitHub Trophies:
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=PANKAJMOR&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
----
-
-## ✍️ Random Dev Quote:
-
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
----
 
