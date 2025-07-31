@@ -1,11 +1,6 @@
 <h1>Hi 👋, I'm Pankaj More</h1>
 <h3">💻 AI/ML Enthusiast | 🎓 Final Year CSE (AI & ML) @ PCCoE</h3>
 
----
-
-Got it! Here's the revised version of your **💫 About Me** section with a subtle mention of your web development experience:
-
----
 
 ## 💫 About Me:
 <p style="font-size: 18px; font-weight: normal;">
